@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bitcoin USD/EUR</string>
+    <string name="server">SERVER</string>
+    <string name="server_port">Port</string>
+    <string name="connect">Start</string>
+    <string name="client">CLIENT</string>
+    <string name="client_address">Address</string>
+    <string name="client_port">Port</string>
+    <string name="currency">Currency</string>
+    <string name="get_exchange_rate">Get Bitcoin Exchange Rate</string>
+    <string-array name="currency_list">
+        <item>USD</item>
+        <item>EUR</item>
+    </string-array>
+</resources>
