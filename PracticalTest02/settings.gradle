@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':httpclient', ':jsoup'
 rootProject.name='PracticalTest02'
